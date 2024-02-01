@@ -13,5 +13,5 @@
 - 🌱 Learning all about **Cloud Architecture**
 - 💬 Ping me about **Software Development**, **Software Architecture**, **Cloud Services**
 - 📫 Reach me: [twitter.com/liwich](https://twitter.com/liwich)
-- 📫 LinkedIn: [twitter.com/liwich](https://linkedin.com/luismrodram)
+- 📫 LinkedIn: [linkedin.com/luismrodram](https://linkedin.com/luismrodram)
 - 🏎 Fun fact: I'm a huge fan of Motorsports
