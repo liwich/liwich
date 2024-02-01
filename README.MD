@@ -8,9 +8,10 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Scio Consulting**
-- ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.html`, `.css`, `.svg`
-- 🌱 Learning all about **Software Architecture**
-- 💬 Ping me about **Development**, **Software Architecture**, **Cloud Services**
+- 🏢 I'm currently working at **Hatchworks**
+- ⚙️ I use daily: `.Net Core`, `Javascript`, `Infrastructure as Code`, `AWS Services`
+- 🌱 Learning all about **Cloud Architecture**
+- 💬 Ping me about **Software Development**, **Software Architecture**, **Cloud Services**
 - 📫 Reach me: [twitter.com/liwich](https://twitter.com/liwich)
+- 📫 LinkedIn: [twitter.com/liwich](https://linkedin.com/luismrodram)
 - 🏎 Fun fact: I'm a huge fan of Motorsports
